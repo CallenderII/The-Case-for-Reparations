@@ -1,0 +1,8 @@
+{
+	{"name":"Portugal", "properties":{"voyages": 30000, "slaves_transported":4650000}}
+	{"name":"Spain", "properties":{"voyages": 4000, "slaves_transported":1600000}}
+	{"name":"France", "properties":{"voyages": 4200, "slaves_transported":1250000}}
+	{"name":"Netherlands", "properties":{"voyages": 2000, "slaves_transported":500000}}
+	{"name":"England", "properties":{"voyages": 12000, "slaves_transported":2600000}}
+	{"name":"Denmark", "properties":{"voyages": 250, "slaves_transported":50000}}
+}
